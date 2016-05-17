@@ -1,0 +1,4 @@
+inserire opzioni proxy per poter scaricare i componenti necessari.
+10.0.1.230
+porta: 3128
+
